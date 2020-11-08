@@ -37,10 +37,7 @@ video{
     margin-left:22%;
     margin-bottom: 0%;
     z-index: 200;
-    /* color: rgb(182, 182, 182); */
     background: url(../img/banner_text_bg.jpg);
-    /* -webkit-text-fill-color: rgba(163, 163, 163, 0.671);
-    background-repeat: no-repeat; */
     background-size: 156% 254%;
     background-position: 8% 24%;
     background-clip: text;
